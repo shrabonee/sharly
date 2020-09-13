@@ -1,0 +1,27 @@
+body{background: linear-gradient(90deg,#45048a,#69037c);
+	height: 100vh;}
+
+.form-box{width: 600px;
+	margin: auto;
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 10px;
+	padding: 50px 60px;
+	text-align: center;
+}
+.form-box h2{    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 40px} 
+
+    .form-box form input{
+    	width: 350px;
+       margin-bottom: 30px;
+       border-radius:5px; 
+
+    }
+    .button{
+    	background: linear-gradient(90deg,#45048a,#69037c);
+    	color: white;
+    	width: 400px;
+    }
+   
